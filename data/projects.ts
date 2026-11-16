@@ -122,8 +122,7 @@ export const portfolioProjects: PortfolioProject[] = [
     "Applied image preprocessing, augmentation, and model training techniques.",
     "Explored comparative evaluation of image classification models.",
   ],
-  github:
-    "https://github.com/Binusha28/fine-grained-knife-classification",
+  github: "https://github.com/Binusha28/Fine-Grained-Knife-Classification-using-Deep-Learning",
 },
 
 ];
